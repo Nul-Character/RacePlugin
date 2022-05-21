@@ -1,0 +1,4 @@
+name: ZhongZu
+version: '${version}'
+main: 插件.字符.种族插件.种族插件
+api-version: 1.18
